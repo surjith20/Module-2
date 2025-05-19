@@ -45,7 +45,7 @@ for i in range(num_rows):
     print()
 ```
 
-## Sample Output
+##  Output
 ![image](https://github.com/user-attachments/assets/60b37196-17c1-491d-812a-572908cc1497)
 
 ## Result
